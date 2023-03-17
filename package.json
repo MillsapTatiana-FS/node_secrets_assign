@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MillsapTatiana-FS/node_secrets_assign/issues"
   },
-  "homepage": "https://github.com/MillsapTatiana-FS/node_secrets_assign#readme"
+  "homepage": "https://github.com/MillsapTatiana-FS/node_secrets_assign#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
